@@ -1,3 +1,3 @@
 # password-protection
-# Note
+## Note
 change password acording to your choice.
